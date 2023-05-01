@@ -1,0 +1,45 @@
+body {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 0px 0px 0px 800px
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+}
+
+.dark-mode {
+  background-color: #2C3539;
+  color: white;
+}
+
+.button {
+  background-color: #2C3539;
+  color: white;
+}
+
+
+	
